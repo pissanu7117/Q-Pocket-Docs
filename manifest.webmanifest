@@ -1,0 +1,20 @@
+{
+  "name": "Q Pocket Docs V2",
+  "short_name": "Q Pocket Docs",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061132",
+  "theme_color": "#061132",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
